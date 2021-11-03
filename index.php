@@ -6,4 +6,5 @@ exit(); }
 ?>
 <html>
 <p>the page to redirected to after login</p>
+<p>this is new line </p>
 </html>
